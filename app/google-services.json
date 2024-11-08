@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "1051444101684",
+    "firebase_url": "https://gdscdisastermanagement-b0373-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "gdscdisastermanagement-b0373",
+    "storage_bucket": "gdscdisastermanagement-b0373.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1051444101684:android:5f4f880cfbf0e7d838c061",
+        "android_client_info": {
+          "package_name": "com.example.disaster_management"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1051444101684-tg2l1rfocjhvtetdqtifem4r4pjjvrmj.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.disaster_management",
+            "certificate_hash": "8c06b03fcd001c7a247ecc9ee07d8b75c1e35e7a"
+          }
+        },
+        {
+          "client_id": "1051444101684-d8734jsphdijaic9g6s7dt88qj1l8lei.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD2LG3jF__uZlVZlHc47qxO0N7jNBnPBBg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1051444101684-d8734jsphdijaic9g6s7dt88qj1l8lei.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1051444101684-43np8hgnm46hatpvck66dh6oijblrv3h.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.disasterManagement"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
